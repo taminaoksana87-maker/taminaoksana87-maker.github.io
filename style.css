@@ -126,20 +126,20 @@ body {
 
 .image__like {
     width: 39px;
-    background-image: url(./images/лайк.svg);
+    background-image: url(./images/union.svg);
 }
 
 .image__like:hover {
-    background-image: url(./images/лайк2.svg);
+    background-image: url(./images/union1.svg);
 }
 
 .image__choosen {
     width: 30px;
-    background-image: url(./images/избранное.svg);
+    background-image: url(./images/rectangle11.svg);
 }
 
 .image__choosen:hover {
-    background-image: url(./images/избранное2.svg);
+    background-image: url(./images/rectangle14.svg);
 }
 
 
@@ -163,3 +163,4 @@ body {
     color: white;
 
 }
+
